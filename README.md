@@ -10,5 +10,6 @@ The code extract the following information:
 - Working energy for low fluence
 - High voltaje for the last fluence
 - Laser count pulses
+- test nuevo
 
 With this information we can determine when the laser needs a maintenance in order to keep the laser in working conditions.
