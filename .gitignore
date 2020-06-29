@@ -1,1 +1,16 @@
 *.zip
+*.log
+*.dat
+confs
+CrdStatus
+Hdspace
+*.cfg
+*.slb
+LogEx
+Mcu_boottime
+Mcu_logs
+Nozzle
+*.bmp
+SysConfigInfo
+*.sys
+Users
